@@ -1,6 +1,14 @@
 title: <p align="center"> Sneha Kumari </p>
 logo: assets/Sneha_dp_cropped.jpg
-description: I am a Data Scientist Enthusiast and looking for a transition in Data Science domain. 
-show_downloads: true
-google_analytics:
+
+description: 
+<p align="center">
+
+<br>
+I am a Data Scientist Enthusiast and looking for a transition in Data Science domain. 
+<br>
+</p>
+
+# show_downloads: true
+# google_analytics:
 theme: jekyll-theme-minimal
