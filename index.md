@@ -10,13 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
+# Promising Apps on Google Play Store
 
 Identifying promising apps on Google play
 
-## Project 2
+## Fraud Detection
 
-Fraud Detection in any banking domain
+Identifying ways for Fraud Detection in banking domain
 
 ### Header 3
 
