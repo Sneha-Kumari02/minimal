@@ -1,6 +1,5 @@
 title: <p align="center"> Sneha Kumari </p>
 logo: assets/Sneha_dp_cropped.jpg
-
 description: 
 <p align="center">
 
@@ -9,6 +8,6 @@ I am a Data Scientist Enthusiast and looking for a transition in Data Science do
 <br>
 </p>
 
-# show_downloads: true
-# google_analytics:
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
